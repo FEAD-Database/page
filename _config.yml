@@ -1,0 +1,11 @@
+# theme: jekyll-theme-cayman
+theme: null
+title: Home
+description: A GitHub Pages site similar to Project Aria Tools
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include:
+  - styles.css
